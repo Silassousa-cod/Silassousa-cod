@@ -23,8 +23,7 @@
   
   <div>
   <a href = "mailto:emanusilas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=" https://www.linkedin.com/in/silas-sousa-122436209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/silas-sousa-122436209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>  
   
   ![Snake animation](https://github.com/Silassousa-cod/Silassousa-cod/blob/output/github-contribution-grid-snake.svg)
