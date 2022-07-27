@@ -1,9 +1,9 @@
 ### Olá, eu sou o Silas Sousa
 
 
-- 🔭 Procuro oportunidade em Java
-- 🌱 Estudando Java/Spring Boot
-- ⚡ Possuo conhecimento em Testes Automatizados, Banco de dados, Metodologia Ágil Scrum
+- 🔭 Procuro oportunidade em Java/QA
+- 🌱 Estudando Java/Testes
+- ⚡ Possuo conhecimento em Testes Automatizados, Testes de API´s, Banco de dados, Metodologia Ágil Scrum
 - 😄 Pronoums: Ele/Dele
 
 <div>
