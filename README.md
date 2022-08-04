@@ -1,9 +1,8 @@
 ### Olá, eu sou o Silas Sousa
 
 
-- 🔭 Procuro oportunidade em Java/QA
-- 🌱 Estudando Java/Testes
-- ⚡ Possuo conhecimento em Testes Automatizados, Testes de API´s, Banco de dados, Metodologia Ágil Scrum
+- 🔭 Software Quality Analyst
+- ⚡ Possuo conhecimento em Testes Automatizados Web, Testes de API´s, Banco de dados, Metodologia Ágil Scrum
 - 😄 Pronoums: Ele/Dele
 
 <div>
