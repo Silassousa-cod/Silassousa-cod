@@ -1,10 +1,10 @@
 ### Olá, eu sou o Silas Sousa
 
-<hr>
+
 - 🔭 Software Quality Analyst
 - ⚡ Possuo conhecimento em Testes Automatizados Web, Testes de API´s, Banco de dados, Metodologia Ágil Scrum
 - 😄 Pronoums: Ele/Dele
-<hr>
+
 <div>
   <a href="https://github.com/Silassousa-cod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silassousa-cod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
