@@ -1,7 +1,7 @@
 ### Olá, eu sou o Silas Sousa
 
 
-- 🔭 Software Quality Analyst
+- 🔭 Software Quality Analyst 
 - ⚡ Possuo conhecimento em Testes Automatizados Web, Testes de API´s, Banco de dados, Metodologia Ágil Scrum
 - 😄 Pronoums: Ele/Dele
 
