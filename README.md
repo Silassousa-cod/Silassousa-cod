@@ -2,7 +2,7 @@
 
 
 - 🔭 Software Quality Analyst 
-- ⚡ Possuo conhecimento em Testes Automatizados Web, Mobile e API´s, Banco de dados, Metodologia Ágil Scrum
+- ⚡ Possuo conhecimento em Testes Automatizados Web, Mobile e API´s, Banco de dados.
 - 😄 Pronoums: Ele/Dele
 
 <div>
