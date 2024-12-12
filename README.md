@@ -2,8 +2,6 @@
 
 
 - 🔭 Software Quality Analyst 
-- ⚡ Possuo conhecimento em Testes Automatizados Web, Mobile e API´s, Banco de dados.
-
 <div>
   <a href="https://github.com/Silassousa-cod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silassousa-cod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
