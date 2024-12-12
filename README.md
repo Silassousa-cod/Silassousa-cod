@@ -3,7 +3,6 @@
 
 - 🔭 Software Quality Analyst 
 - ⚡ Possuo conhecimento em Testes Automatizados Web, Mobile e API´s, Banco de dados.
-- 😄 Pronoums: Ele/Dele
 
 <div>
   <a href="https://github.com/Silassousa-cod">
